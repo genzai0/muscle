@@ -1,0 +1,3 @@
+//number(max999) place distance(km) day
+//-------------------------------------
+001 hachioji 9.66 2018/8/28
