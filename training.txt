@@ -1,0 +1,5 @@
+//training 1set=[ab,push-up,squat]
+//japanese type [hukkin,udetate,sukuwatto]
+//number(max999) set date
+//---------------------------------------
+001 1 2018/8/29
